@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ValenBV1013/ValenBV1013/blob/main/analista%202.png?raw=true" alt="image alt">
+  <img src="https://github.com/ValenBV1013/ValenBV1013/blob/main/An%C3%A1lista2.png?raw=true" alt="image alt">
 </div>
 
 <h1 align="center">Hi 👋, I'm Valentina Blandón Vélez</h1>
