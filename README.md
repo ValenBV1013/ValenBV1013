@@ -1,4 +1,7 @@
-![image alt](https://github.com/ValenBV1013/ValenBV1013/blob/main/analista%202.png?raw=true)
+<div align="center">
+  <img src="https://github.com/ValenBV1013/ValenBV1013/blob/main/analista%202.png?raw=true" alt="image alt">
+</div>
+
 <h1 align="center">Hi 👋, I'm Valentina Blandón Vélez</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
