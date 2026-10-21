@@ -6,10 +6,6 @@
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valenbv1013&label=Profile%20views&color=0e75b6&style=flat" alt="valenbv1013" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ValenBV1013" alt="ValenBV1013" /></a> </p>
-
 - 🔭 I'm currently working on **my project, a dog spa; on the other hand, I also do small projects to practice Dockerization and website deployment.**
 
 - 🌱 I'm currently studying **Software Analysis and Development, C#, Docker, and deployment. I'm also studying English and have a B1 level.**
@@ -53,7 +49,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons/i=tailwind" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValenBV1013&show_icons=true&locale=en&layout=compact" alt="ValenBV1013" /></p>
