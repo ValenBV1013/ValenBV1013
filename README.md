@@ -150,10 +150,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenBV1013&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ValenBV1013&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-</p>
-
 ---
 
 <h3 align="left">⭐ Featured Projects:</h3>
