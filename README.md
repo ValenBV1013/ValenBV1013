@@ -1,9 +1,9 @@
+<!-- NEW: header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%" alt="header" />
+
 <div align="center">
   <img src="https://github.com/ValenBV1013/ValenBV1013/blob/main/An%C3%A1lista2.png?raw=true" alt="image alt">
 </div>
-
-<!-- NEW: header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%" alt="header" />
 
 <h1 align="center">Hi 👋, I'm Valentina Blandón Vélez</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
