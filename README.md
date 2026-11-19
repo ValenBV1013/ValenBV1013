@@ -4,6 +4,21 @@
 
 <h1 align="center">Hi 👋, I'm Valentina Blandón Vélez</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
+
+<!-- NEW: animated typing line + profile badges -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Docker+%26+Deployment+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ValenBV1013&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
+  <a href="https://github.com/ValenBV1013?tab=followers"><img src="https://img.shields.io/github/followers/ValenBV1013?style=flat&logo=github&color=6C63FF" alt="GitHub followers" /></a>
+  <a href="https://www.linkedin.com/in/valentina-blandon-velez-865504308/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:valentinablandon12345678@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 - 🔭 I'm currently working on **my project, a dog spa; on the other hand, I also do small projects to practice Dockerization and website deployment.**
@@ -17,6 +32,15 @@
 - 📫 How to reach me **valentinablandon12345678@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/ValenBV1013](https://github.com/ValenBV1013)**
+
+<!-- NEW: quick facts -->
+- 🌎 Based in **Colombia** 🇨🇴
+
+- 🗣️ Languages: **Spanish (native) · English (B1)**
+
+- ⚡ Fun fact: **I'm building a real-world product (a dog spa) while I keep learning DevOps practices.**
+
+<br clear="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,3 +78,122 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValenBV1013&" alt="ValenBV1013" /></p>
+
+<!-- ============================================================ -->
+<!-- NEW SECTIONS START HERE                                      -->
+<!-- ============================================================ -->
+
+---
+
+<h3 align="left">🧰 Tech Stack by Area:</h3>
+
+<table>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="left">📚 Currently Learning:</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-in%20progress-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Learning C#" />
+  <img src="https://img.shields.io/badge/Docker-in%20progress-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Learning Docker" />
+  <img src="https://img.shields.io/badge/Java-next%20goal-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Learning Java" />
+  <img src="https://img.shields.io/badge/English-B1-blue?style=for-the-badge" alt="English B1" />
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ValenBV1013&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenBV1013&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ValenBV1013&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
+---
+
+<h3 align="left">⭐ Featured Projects:</h3>
+
+<!--
+  TIP: To show your best repos as cards, replace REPO-NAME-1 and REPO-NAME-2
+  with the exact names of your repositories, then delete this comment block
+  and remove the surrounding comment markers below.
+
+<p align="center">
+  <a href="https://github.com/ValenBV1013/REPO-NAME-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValenBV1013&repo=REPO-NAME-1&theme=radical&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/ValenBV1013/REPO-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValenBV1013&repo=REPO-NAME-2&theme=radical&hide_border=true" alt="Project 2" />
+  </a>
+</p>
+-->
+
+- 🐶 **Dog Spa Project** — my main project, a full management/website solution for a dog spa. *(add the repo link here)*
+- 🐳 **Docker & Deployment practice** — small projects where I practice containerization and deploying websites. *(add the repo link here)*
+
+👉 More at **[github.com/ValenBV1013?tab=repositories](https://github.com/ValenBV1013?tab=repositories)**
+
+---
+
+<h3 align="left">📫 Let's work together!</h3>
+
+<p align="left">
+  I'm open to <b>collaborations</b>, <b>learning opportunities</b> and <b>junior full stack roles</b>. Feel free to reach out:
+</p>
+
+<p align="left">
+  <a href="mailto:valentinablandon12345678@gmail.com"><img src="https://img.shields.io/badge/Email-valentinablandon12345678%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/valentina-blandon-velez-865504308/"><img src="https://img.shields.io/badge/LinkedIn-Valentina%20Blandón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> 💜
+</p>
+
+<!-- NEW: footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
